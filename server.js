@@ -14,7 +14,6 @@ app.engine('ejs.html', require('ejs').renderFile);
 app.set('view engine', 'ejs.html');
 
 app.get('/', routes.index);
-
 app.use('/', express.static(__dirname + '/public/'));
 
 
