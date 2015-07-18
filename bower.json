@@ -1,0 +1,20 @@
+{
+  "name": "gmail-api",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksandr Yanitskiy <demo.alex@gmail.com>"
+  ],
+  "main": "server.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# Libs
+node_modules
+public/lib
+
+# MongoDB
+data
